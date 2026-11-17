@@ -1,57 +1,62 @@
-# Hola, soy Alejandro 👋
+### Hola, soy Alejandro (`@alcorher`) 👋
 
-Desarrollador de software en formación. Construyo aplicaciones web y móviles,
-APIs y herramientas de procesamiento de datos. Mi trabajo combina el desarrollo
-full stack con Python, JavaScript y TypeScript.
+Desarrollador **Full-Stack** (DAM) especializado en **Inteligencia Artificial y Big Data**. Construyo sistemas multi-agente, pipelines de procesamiento de datos y aplicaciones web y móviles con **Python** y **TypeScript**.
 
-## Actualmente trabajando en
+---
 
-[![LebriJaleo](https://github-readme-stats.vercel.app/api/pin/?username=alcorher&repo=TFG&theme=tokyonight)](https://github.com/alcorher/TFG)
+### 🚀 En qué estoy trabajando
 
-**LebriJaleo** es una plataforma para descubrir y gestionar eventos culturales:
+- 🤖 **Arquitecturas Multi-Agente y LLMs:** Diseño de asistentes conversacionales y de voz con flujos *Human-in-the-Loop* (HITL), integración de modelos vía API y persistencia en tiempo real.
+- 📊 **Ingeniería de Datos y Visión Artificial:** Automatización de procesos, extracción estructurada con OCR (`OpenCV` + `PyTesseract`) y análisis de datos con Python.
+- 🌐 **Desarrollo Full-Stack & Mobile:** APIs REST rápidas con `FastAPI` y clientes modernos con `Next.js`, `React Native` y `Tailwind CSS`.
 
-- API con Python y FastAPI.
-- Aplicación web con Next.js y React.
-- Aplicación móvil con Expo y React Native.
-- Datos, autenticación y almacenamiento con Supabase.
+---
 
-## Proyectos destacados
+### 🛠️ Stack Tecnológico
 
-| Proyecto | Descripción | Tecnologías |
-| --- | --- | --- |
-| [LebriJaleo](https://github.com/alcorher/TFG) | Plataforma web y móvil para eventos culturales | Python, FastAPI, Next.js, React Native, Supabase |
-| [Análisis de perfiles de Bluesky](https://github.com/alcorher/Identificacion-y-extraccion-de-datos--Datos-no-estructurados) | Extracción y análisis de perfiles con IA y MongoDB | Python, Groq, Bluesky API, MongoDB |
-| [Clasificación mediante OCR](https://github.com/alcorher/Actividad-1.4-OCR) | Extracción de datos deportivos desde una imagen | Python, OpenCV, Tesseract |
-| [Cuervo Beer Museum](https://github.com/alcorher/cuervobeermuseum) | Sitio web sobre la historia y cultura de la cerveza | HTML, CSS, JavaScript |
-| [Gestión empresarial](https://github.com/alcorher/SGE) | Ejercicios y aplicaciones de gestión y entornos gráficos | Python |
+**IA, LLMs & Data**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-## Tecnologías
+**Backend, Bases de Datos & Infraestructura**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+**Frontend & Mobile**  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### 📂 Proyectos Destacados
+
+| Proyecto | Descripción | Stack |
+| :--- | :--- | :--- |
+| **[Asistente Multi-Agente (SWT)](https://github.com/alcorher)** | Asistente virtual de voz y chat con gestión de reservas y escalado humano (HITL). | `Botpress ADK` · `Supabase` · `Twilio` · `ElevenLabs` |
+| **[Bluesky Profile Analyzer](https://github.com/alcorher)** | Herramienta en Python para extracción y análisis de perfiles sociales mediante LLMs. | `Python` · `atproto` · `Groq API` · `MongoDB` |
+| **[LebriJaleo](https://github.com/alcorher)** | Aplicación móvil multiplataforma orientada a eventos y actividad local. | `React Native` · `Expo` · `TypeScript` |
+
+
+---
+
+### 📈 Actividad en GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=alcorher&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub de alcorher" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcorher&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados por alcorher" height="165" />
 </p>
 
-## Más sobre mi trabajo
+---
 
-- Desarrollo aplicaciones completas: backend, web y móvil.
-- Trabajo con datos estructurados y no estructurados.
-- Me interesa la integración de APIs e inteligencia artificial en productos reales.
-- Uso Python para automatización, análisis y OCR.
-- Mis repositorios incluyen proyectos personales y académicos.
+### 📫 Contacto
 
-<p align="center">
-  <a href="https://github.com/alcorher">Ver todos mis repositorios</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
