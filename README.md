@@ -40,7 +40,7 @@
 | **AI Voice & Chat Virtual Assistant** | Multi-channel conversational agent automating customer bookings and support over voice and text, combining real-time TTS synthesis with persistent session state. | `Botpress ADK` `Supabase` `Twilio` `ElevenLabs` | 🔒 Private *(Production)* |
 | **[Bluesky Profile Analyzer](https://github.com/alcorher/Identificacion-y-extraccion-de-datos--Datos-no-estructurados)** | Automated social data pipeline that ingests user graphs and posts via AT Protocol, runs structured behavioral analysis with low-latency LLM inference, and stores results in NoSQL. | `Python` `atproto` `Groq API` `MongoDB` | [Source Code](https://github.com/alcorher/Identificacion-y-extraccion-de-datos--Datos-no-estructurados) |
 | **[Automated OCR & Text Extraction](https://github.com/alcorher/Actividad-1.4-OCR)** | Computer vision preprocessing and optical character recognition pipeline that cleans noisy document images and extracts structured text data automatically. | `Python` `OpenCV` `Tesseract OCR` | [Source Code](https://github.com/alcorher/Actividad-1.4-OCR) |
-| **[LebriJaleo](https://github.com/alcorher/TFG)** | Cross-platform mobile application centralizing local events and cultural discovery into a fast, intuitive experience for iOS and Android. | `React Native` `Expo` `TypeScript` | [Source Code](https://github.com/alcorher/TFG) |
+| **[LebriJaleo](https://github.com/alcorher/TFG)** | End-to-end web and mobile ecosystem centralizing local cultural and leisure events in real time for citizens and organizers, backed by a REST API and unified auth/storage. | `Next.js` `React Native` `Expo` `FastAPI` `Supabase` | [Source Code](https://github.com/alcorher/TFG) |
 
 ---
 
